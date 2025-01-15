@@ -6,7 +6,7 @@
 - 目前LiBwrt已经对6.12内核进行了完全适配，对比6.6内核它有更低的延迟以及更好的内存优化
 - 在进行了两个月的适配及优化后，目前6.12内核已经完全稳定可用了
 
-## 其中对于高通NSS的wikiWiki
+## 其中对于高通NSS的Wiki
 - [什么是NSS?](https://github.com/qosmio/openwrt-ipq/blob/qualcommax-6.x-nss-wifi/README.md#whats-nss)
 - [OpenWrt如何“分载”流量？](https://github.com/qosmio/openwrt-ipq/blob/qualcommax-6.x-nss-wifi/README.md#how-does-openwrt-offload-traffic)
 - [NSS与OpenWrt的“分载”选项有何不同？](https://github.com/qosmio/openwrt-ipq/blob/qualcommax-6.x-nss-wifi/README.md#how-is-nss-different-from-openwrts-offloading-options)
