@@ -1,4 +1,3 @@
-
 # LiBwrt项目说明
 
 - 本项目是基于openwrt项目针对高通深度定制的openwrt系统
